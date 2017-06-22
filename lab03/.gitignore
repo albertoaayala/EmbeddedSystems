@@ -1,0 +1,6 @@
+*/debug/*
+*/build/*
+*.swp
+*.out
+logfile.txt
+*.gch
